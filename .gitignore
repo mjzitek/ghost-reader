@@ -1,4 +1,4 @@
-config/config.js
+#config/config.js
 node_modules
 
 # Windows image file caches
